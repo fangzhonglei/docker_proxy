@@ -4,7 +4,7 @@
 
 name: Docker image sync to tencent
 env:
-  REGISTRY_URL: "registry.cn-hangzhou.aliyuncs.com/fanglei"
+  REGISTRY_URL: "registry.cn-hangzhou.aliyuncs.com"
 on:
   push:
     paths:
