@@ -5,6 +5,6 @@
   },
   {
     "source": "redis:7.2.4",
-    "target": "ccr.ccs.tencentyun.com/devopsvip/redis:7.2.4"
+    "target": "registry.cn-hangzhou.aliyuncs.com/fanglei/redis:7.2.4"
   }
 ]
