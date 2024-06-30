@@ -16,7 +16,7 @@ def upload_docker_images(source_image,target_image,registry_url, username, passw
     
     
     subprocess.run(pull_command, shell=True, check=True)
-    #subprocess.run(save_command, shell=True, check=True)
+    subprocess.run(save_command, shell=True, check=True)
     subprocess.run(tag_command, shell=True, check=True)
     subprocess.run(push_command, shell=True, check=True)
     
