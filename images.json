@@ -1,4 +1,8 @@
 [
+   {
+    "source":"apache/rocketmq-operator:latest",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/rocketmq-operator:latest"
+  },
   {
     "source":"mysql/mysql-server:8.0.32",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/mysql-server:8.0.32"
