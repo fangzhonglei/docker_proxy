@@ -1,6 +1,6 @@
 [
    {
-    "source":"quay.io/external_storage/nfs-client-provisioner:latest",
+    "source":"gmoney23/nfs-client-provisioner",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/nfs-client-provisioner:latest"
    },
    {
