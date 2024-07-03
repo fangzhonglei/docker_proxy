@@ -1,5 +1,9 @@
 [
    {
+    "source":" quay.io/external_storage/nfs-client-provisioner:latest",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/nfs-client-provisioner:latest"
+  },
+   {
     "source":"apache/rocketmq-operator:latest",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/rocketmq-operator:latest"
   },
