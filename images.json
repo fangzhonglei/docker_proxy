@@ -1,6 +1,6 @@
 [
    {
-    "source":" quay.io/external_storage/nfs-client-provisioner:latest",
+    "source":"quay.io/external_storage/nfs-client-provisioner:latest",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/nfs-client-provisioner:latest"
   },
    {
