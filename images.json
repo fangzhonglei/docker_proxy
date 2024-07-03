@@ -10,5 +10,17 @@
   {
     "source": "sonatype/nexus3:3.60.0",
     "target": "registry.cn-hangzhou.aliyuncs.com/fanglei/nexus3:3.60.0"
+  },
+  {
+    "source": "eipwork/kuboard:v3",
+    "target": "registry.cn-hangzhou.aliyuncs.com/fanglei/kuboard:v3"
+  },
+  {
+    "source": "eipwork/kuboard-agent:v3",
+    "target": "registry.cn-hangzhou.aliyuncs.com/fanglei/kuboard-agent:v3"
+  },
+  {
+    "source": "eipwork/etcd-host:3.4.16-2",
+    "target": "registry.cn-hangzhou.aliyuncs.com/fanglei/etcd-host:3.4.16-2"
   }
 ]
