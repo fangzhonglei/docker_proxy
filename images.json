@@ -1,5 +1,9 @@
 [
    {
+    "source":"redislabs/redisinsight:1.13.1",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/redisinsight:1.13.1"
+   },
+   {
     "source":"gmoney23/nfs-client-provisioner",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/nfs-client-provisioner:latest"
    },
