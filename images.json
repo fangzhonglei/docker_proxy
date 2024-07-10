@@ -1,5 +1,9 @@
 [
    {
+    "source":"redis:6.2.6-alpine",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/redis:6.2.6-alpine"
+   },
+   {
     "source":"quay.io/spotahome/redis-operator:latest",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/redis-operator:latest"
    },
