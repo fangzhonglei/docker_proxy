@@ -1,5 +1,9 @@
 [
    {
+    "source":"quay.io/spotahome/redis-operator:v1.1.0",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/redis-operator:v1.1.0"
+   },
+   {
     "source":"leominov/redis_sentinel_exporter:1.3.0",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/redis_sentinel_exporter:1.3.0"
    },
