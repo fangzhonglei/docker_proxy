@@ -1,5 +1,13 @@
 [
    {
+    "source":"oliver006/redis_exporter:v1.3.5-alpine",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/redis_exporter:v1.3.5-alpine"
+   },
+   {
+    "source":"redis:5.0-alpine",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/redis:5.0-alpine"
+   },
+   {
     "source":"redislabs/redisinsight:1.13.1",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/redisinsight:1.13.1"
    },
