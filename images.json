@@ -1,5 +1,13 @@
 [
    {
+    "source":"nacos/nacos-server:v2.1.2",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/nacos-server:v2.1.2"
+   },
+   {
+    "source":"nacos/nacos-peer-finder-plugin:1.1",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/nacos-peer-finder-plugin:1.1"
+   },
+   {
     "source":"redis:6.2.6-alpine",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/redis:6.2.6-alpine"
    },
