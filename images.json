@@ -1,5 +1,9 @@
 [
    {
+    "source":"leominov/redis_sentinel_exporter:1.3.0",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/redis_sentinel_exporter:1.3.0"
+   },
+   {
     "source":"oliver006/redis_exporter:v1.3.5-alpine",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/redis_exporter:v1.3.5-alpine"
    },
