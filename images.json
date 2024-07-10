@@ -1,5 +1,9 @@
 [
    {
+    "source":"busybox",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/busybox"
+   },
+   {
     "source":"quay.io/spotahome/redis-operator:v1.1.0",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/redis-operator:v1.1.0"
    },
