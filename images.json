@@ -1,5 +1,9 @@
 [
    {
+    "source":"rancher/klipper-helm:v0.8.0-build20230510",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/klipper-helm:v0.8.0-build20230510"
+   },
+   {
     "source":"node:16.14.2",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/node:16.14.2"
    },
