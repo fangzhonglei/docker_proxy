@@ -1,5 +1,9 @@
 [
    {
+    "source":"docker.elastic.co/elasticsearch/elasticsearch:7.17.13",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/elasticsearch:7.17.13"
+   },
+   {
     "source":"rancher/klipper-helm:v0.8.0-build20230510",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/klipper-helm:v0.8.0-build20230510"
    },
