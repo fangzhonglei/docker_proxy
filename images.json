@@ -1,5 +1,9 @@
 [
    {
+    "source":"node:16.14.2",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/node:16.14.2"
+   },
+   {
     "source":"nacos/nacos-server:v2.1.2",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/nacos-server:v2.1.2"
    },
