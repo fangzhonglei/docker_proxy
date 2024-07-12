@@ -1,5 +1,13 @@
 [
    {
+    "source":"apache/rocketmq:5.1.3",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/rocketmq:5.1.3"
+   },
+   {
+    "source":"apacherocketmq/rocketmq-dashboard:1.0.0",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/rocketmq-dashboard:1.0.0"
+   },
+   {
     "source":"docker.elastic.co/elasticsearch/elasticsearch:7.17.13",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/elasticsearch:7.17.13"
    },
