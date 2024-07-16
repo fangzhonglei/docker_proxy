@@ -1,5 +1,9 @@
 [
    {
+    "source":"docker.elastic.co/kibana/kibana:7.17.13",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/kibana:7.17.13"
+   },
+   {
     "source":"eipwork/etcd-host:3.4.16-2",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/etcd-host:3.4.16-2"
    },
