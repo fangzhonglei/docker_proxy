@@ -1,5 +1,9 @@
 [
    {
+    "source":"apache/rocketmq:4.9.6",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/rocketmq:4.9.6"
+   },
+   {
     "source":"docker.elastic.co/kibana/kibana:7.17.13",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/kibana:7.17.13"
    },
