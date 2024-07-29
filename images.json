@@ -1,5 +1,9 @@
 [
    {
+    "source":"minio:RELEASE.2021-04-22T15-44-28Z",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/minio:RELEASE.2021-04-22T15-44-28Z"
+   },
+   {
     "source":"apache/rocketmq:4.9.6",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/rocketmq:4.9.6"
    },
