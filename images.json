@@ -1,6 +1,6 @@
 [
    {
-    "source":"minio:RELEASE.2021-04-22T15-44-28Z.hotfix.56647434e",
+    "source":"minio/minio:RELEASE.2021-04-22T15-44-28Z.hotfix.56647434e",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/minio:RELEASE.2021-04-22T15-44-28Z.hotfix.56647434e"
    },
    {
