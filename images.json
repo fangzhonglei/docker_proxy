@@ -1,4 +1,16 @@
 [
+      {
+    "source":"spinnakercd/argocd-blue-green:v1",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/argocd-blue-green:v1"
+   },
+      {
+    "source":"spinnakercd/argocd-blue-green:v2",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/argocd-blue-green:v2"
+   },
+   {
+    "source":"spinnakercd/argocd-blue-green:v3",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/argocd-blue-green:v3"
+   },
    {
     "source":"minio/minio:RELEASE.2021-04-22T15-44-28Z.hotfix.56647434e",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/minio:RELEASE.2021-04-22T15-44-28Z.hotfix.56647434e"
