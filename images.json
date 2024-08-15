@@ -1,13 +1,17 @@
 [
-            {
+   {
+    "source":"ubuntu:22.04",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/ubuntu:22.04"
+   },            
+   {
     "source":"ubuntu:20.04",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/ubuntu:20.04"
    },
-      {
+   {
     "source":"spinnakercd/argocd-blue-green:v1",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/argocd-blue-green:v1"
    },
-      {
+   {
     "source":"spinnakercd/argocd-blue-green:v2",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/argocd-blue-green:v2"
    },
