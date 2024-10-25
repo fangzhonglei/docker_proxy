@@ -1,5 +1,9 @@
 [
    {
+    "source":"elasticsearch:7.15.2",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/elasticsearch:7.15.2"
+   },  
+   {
     "source":"ubuntu:22.04",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/ubuntu:22.04"
    },            
