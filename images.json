@@ -1,7 +1,7 @@
 
 [
    {
-    "source":"docker.elastic.co/elasticsearch/elasticsearch:7.15.2",
+    "source":"blacktop/elasticsearch:7.15.2",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/elasticsearch:7.15.2"
    },  
    {
