@@ -19,7 +19,7 @@ jobs:
       run: |
         mkdir -p images/ 
         python uploader.py ${{ secrets.ALIYUNDOCKER_USER}} ${{ secrets.ALIYUNDOCKER_PASSWD}} ${REGISTRY_URL}
-    - uses: actions/upload-artifact@v2
+    - uses: actions/upload-artifact@v3
       with: 
         name: docker-image
         path: images/*
