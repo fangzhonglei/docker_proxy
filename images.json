@@ -1,5 +1,9 @@
 [
    {
+    "source":"zookeeper:3.8.3",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/zookeeper:3.8.3"
+   },
+   {
     "source":"blacktop/elasticsearch:7.15.2",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/elasticsearch:7.15.2"
    }, 
