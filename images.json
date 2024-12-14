@@ -1,4 +1,7 @@
-[   
+[      {
+    "source":"plugins/ecr:18.09",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/ecr:18.09"
+   }, 
     {
     "source":"appleboy/drone-ssh:1.6.6-linux-amd64",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/drone-ssh:1.6.6-linux-amd64"
