@@ -1,4 +1,9 @@
-[   {
+[   
+    {
+    "source":"plugins/ecr",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/plugins/ecr"
+   },
+    {
     "source":"maven:3.5-jdk-8",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/maven:3.5-jdk-8"
    },
