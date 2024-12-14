@@ -1,4 +1,7 @@
-[
+[   {
+    "source":"maven:3.5-jdk-8",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/maven:3.5-jdk-8"
+   },
    {
     "source":"zookeeper:3.5.10",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/zookeeper:3.5.10"
