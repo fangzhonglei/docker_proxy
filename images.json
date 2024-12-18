@@ -1,4 +1,9 @@
-[      {
+[   
+    {
+    "source":"apacherocketmq/rocketmq-dashboard",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/rocketmq-dashboard"
+   }
+    ,{
     "source":"plugins/ecr:18.09",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/ecr:18.09"
    }, 
