@@ -1,4 +1,8 @@
 [   {
+    "source":"apacherocketmq/rocketmq-operator:0.3.0-snapshot",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/rocketmq-operator:0.3.0-snapshot"
+   }
+    ,{
     "source":"apacherocketmq/rocketmq-broker:4.5.0-alpine-operator-0.3.0",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/rocketmq-broker:4.5.0-alpine-operator-0.3.0"
    }
