@@ -1,4 +1,8 @@
 [   {
+    "source":"mirrorgooglecontainers/echoserver:1.10",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/echoserver:1.10"
+   }
+    ,{
     "source":"apacherocketmq/rocketmq-operator:0.3.0-snapshot",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/rocketmq-operator:0.3.0-snapshot"
    }
