@@ -1,5 +1,9 @@
 [   
      {
+    "source":"python:3.6.9",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/python:3.6.9"
+   },
+     {
     "source":"nginx/nginx-prometheus-exporter:0.9.0",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/nginx-prometheus-exporter:0.9.0"
    },
