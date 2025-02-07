@@ -1,5 +1,13 @@
 [   
      {
+    "source":"k8s.gcr.io/ingress-nginx/controller:v1.2.0",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/controller:v1.2.0"
+   },
+     {
+    "source":"k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.1.1",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/kube-webhook-certgen:v1.1.1"
+   },
+     {
     "source":"python:3.6.9",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/python:3.6.9"
    },
