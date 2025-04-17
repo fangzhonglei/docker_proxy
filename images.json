@@ -1,7 +1,7 @@
 [  
    {
-    "source":"redis:7.4.2",
-    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/redis:7.4.2"
+    "source":"redis:7.4.2-alpine",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/redis:7.4.2-alpine"
    },
      {
     "source":"k8s.gcr.io/ingress-nginx/controller:v1.2.0",
