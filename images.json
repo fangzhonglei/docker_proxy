@@ -1,4 +1,8 @@
 [   
+   {
+    "source":"redis:7.4.2",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/redis:7.4.2"
+   },
      {
     "source":"k8s.gcr.io/ingress-nginx/controller:v1.2.0",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/controller:v1.2.0"
