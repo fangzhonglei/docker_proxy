@@ -1,4 +1,4 @@
-[   
+[  
    {
     "source":"redis:7.4.2",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/redis:7.4.2"
