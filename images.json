@@ -1,5 +1,9 @@
 [  
    {
+    "source":"apache/rocketmq:5.3.2",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/rocketmq:5.3.2"
+   },
+   {
     "source":"redis:7.4.2-alpine",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/redis:7.4.2-alpine"
    },
