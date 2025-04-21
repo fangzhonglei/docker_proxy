@@ -1,5 +1,13 @@
 [  
    {
+    "source":"kibana:7.17.28",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/kibana:7.17.28"
+   },
+   {
+    "source":"elasticsearch:7.17.28",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/elasticsearch:7.17.28"
+   },
+   {
     "source":"apache/rocketmq:5.3.2",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/rocketmq:5.3.2"
    },
