@@ -1,4 +1,8 @@
 [  
+      {
+    "source":"infoblox/dnstools",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/dnstools:latest"
+   },
    {
     "source":"kibana:7.17.28",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/kibana:7.17.28"
