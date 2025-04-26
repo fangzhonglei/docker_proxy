@@ -1,4 +1,8 @@
 [  
+   {
+    "source":"apache/rocketmq-exporter:latest",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/rocketmq-exporter:latest"
+   },
       {
     "source":"infoblox/dnstools",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/dnstools:latest"
