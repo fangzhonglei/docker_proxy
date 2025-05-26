@@ -1,5 +1,13 @@
 [  
    {
+    "source":"registry.k8s.io/ingress-nginx/controller:v1.10.6",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/controller:v1.10.6"
+   },
+   {
+    "source":"registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.0",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/kube-webhook-certgen:v1.5.0"
+   },
+   {
     "source":"mysql:8.0.41",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/mysql:8.0.41"
    },
