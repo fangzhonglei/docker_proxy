@@ -1,5 +1,9 @@
 [  
    {
+    "source":"cgr.dev/chainguard/minio:latest",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/minio:latest"
+   },
+   {
     "source":"registry.k8s.io/ingress-nginx/controller:v1.10.6",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/controller:v1.10.6"
    },
