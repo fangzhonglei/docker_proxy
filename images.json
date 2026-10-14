@@ -1,5 +1,13 @@
 [  
    {
+    "source":"docker.langfuse.com/langfuse/langfuse-worker:4",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/langfuse-worker:4"
+   },
+   {
+    "source":"docker.langfuse.com/langfuse/langfuse:4",
+    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/langfuse:4"
+   },
+   {
     "source":"cgr.dev/chainguard/minio:latest",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/minio:latest"
    },
