@@ -1,8 +1,4 @@
-[  
-   {
-    "source":"minio/minio:RELEASE.2023-03-20T20-16-18Z",
-    "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/minio:20T20-16-18Z"
-   },
+[
    {
     "source":"milvusdb/milvus:v2.5.5",
     "target":"registry.cn-hangzhou.aliyuncs.com/fanglei/milvus:v2.5.5"
